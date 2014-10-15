@@ -1,6 +1,6 @@
 # docker-slanger
 
-    docker run --name some-redis -d redis
+    docker run --name redis -d redis
 
 > Start the redis container
 
